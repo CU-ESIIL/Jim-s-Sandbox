@@ -3,8 +3,9 @@ This is the central hub for information pertaining to ESIIL and Jim's data cube 
 #CyVerse Utils link
 https://github.com/CU-ESIIL/cyverse-utils
 #RStudio Hack
-https://<id>.cyverse.run/rstudio/auth-sign-in
-https://<id>.cyverse.run/rstudio/
+a7e504e9f
+https://a7e504e9f.cyverse.run/rstudio/auth-sign-in
+https://a7e504e9f.cyverse.run/rstudio/
 # [Jim Sanovia]
 
 Welcome to the [Jim Sanovia] repository, part of the Environmental Data Science Innovation and Inclusion Lab (ESIIL). This repository serves as the central hub for our research at ESIIL, hosting your project description, proposals, bio, codebase, and more.
